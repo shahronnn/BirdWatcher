@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C# course\Bird homework\bird\bin\Debug\net7.0\bird.exe
+C:\Users\User\Desktop\C# course\Bird homework\bird\bin\Debug\net7.0\bird.deps.json
+C:\Users\User\Desktop\C# course\Bird homework\bird\bin\Debug\net7.0\bird.runtimeconfig.json
+C:\Users\User\Desktop\C# course\Bird homework\bird\bin\Debug\net7.0\bird.dll
+C:\Users\User\Desktop\C# course\Bird homework\bird\bin\Debug\net7.0\bird.pdb
+C:\Users\User\Desktop\C# course\Bird homework\bird\obj\Debug\net7.0\bird.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# course\Bird homework\bird\obj\Debug\net7.0\bird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# course\Bird homework\bird\obj\Debug\net7.0\bird.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# course\Bird homework\bird\obj\Debug\net7.0\bird.AssemblyInfo.cs
+C:\Users\User\Desktop\C# course\Bird homework\bird\obj\Debug\net7.0\bird.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# course\Bird homework\bird\obj\Debug\net7.0\bird.dll
+C:\Users\User\Desktop\C# course\Bird homework\bird\obj\Debug\net7.0\refint\bird.dll
+C:\Users\User\Desktop\C# course\Bird homework\bird\obj\Debug\net7.0\bird.pdb
+C:\Users\User\Desktop\C# course\Bird homework\bird\obj\Debug\net7.0\bird.genruntimeconfig.cache
+C:\Users\User\Desktop\C# course\Bird homework\bird\obj\Debug\net7.0\ref\bird.dll
